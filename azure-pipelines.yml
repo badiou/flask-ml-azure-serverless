@@ -6,6 +6,7 @@
 trigger:
 - main
 
+
 variables:
   # Azure Resource Manager connection created during pipeline creation
   azureServiceConnectionId: '28132878-e23b-4653-a584-4368f3b1e0bd'
